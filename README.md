@@ -1,6 +1,6 @@
 # Adversarial Surrogate Losses for Ordinal Regression (NIPS 2017)
 This repository is a code example of a the paper: 
-[Adversarial Surrogate Losses for Ordinal Regression]()
+[Adversarial Surrogate Losses for Ordinal Regression](https://papers.nips.cc/paper/6659-adversarial-surrogate-losses-for-ordinal-regression)
 
 Full paper: [https://www.cs.uic.edu/~rfathony/pdf/fathony2017adversarial.pdf](https://www.cs.uic.edu/~rfathony/pdf/fathony2017adversarial.pdf)
 
